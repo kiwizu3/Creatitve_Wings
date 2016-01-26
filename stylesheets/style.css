@@ -1231,7 +1231,7 @@
 	#banner {
 		background-attachment: scroll,						fixed;
 		background-color: #494d53;
-		background-image: url("images/overlay.png"), url("../images/banner.jpg");
+		background-image: url("https://cloud.githubusercontent.com/assets/15819236/12593889/575b5f58-c499-11e5-9bd7-5b7a493f1324.png"), url("https://cloud.githubusercontent.com/assets/15819236/12593772/d2e9113e-c498-11e5-86cb-27ec8b311318.jpg");
 		background-position: top left,					center center;
 		background-repeat: repeat,						no-repeat;
 		background-size: auto,						cover;
