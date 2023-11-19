@@ -1,0 +1,57 @@
+{
+    published: true,
+    title: 'Kiwi',
+    description: 'Zodbird is an e2e typed tinybird.co client library for typescript, leveraging zod for type safety and transformations',
+    date: '2023-05-21T00:00:00.000Z',
+    repository: 'chronark/zod-bird',
+    body: "somthing",
+    _id: 'projects/zod-bird.mdx',
+    _raw: {
+      sourceFilePath: 'projects/zod-bird.mdx',
+      sourceFileName: 'zod-bird.mdx',
+      sourceFileDir: 'projects',
+      contentType: 'mdx',
+      flattenedPath: 'projects/zod-bird'
+    },
+    type: 'Project',
+    path: '/projects/zod-bird',
+    slug: 'highstorm'
+  },
+  {
+    published: true,
+    title: 'Kiwi',
+    description: 'Zodbird is an e2e typed tinybird.co client library for typescript, leveraging zod for type safety and transformations',
+    date: '2023-05-21T00:00:00.000Z',
+    repository: 'chronark/zod-bird',
+    body: "somthing",
+    _id: 'projects/zod-bird.mdx',
+    _raw: {
+      sourceFilePath: 'projects/zod-bird.mdx',
+      sourceFileName: 'zod-bird.mdx',
+      sourceFileDir: 'projects',
+      contentType: 'mdx',
+      flattenedPath: 'projects/zod-bird'
+    },
+    type: 'Project',
+    path: '/projects/zod-bird',
+    slug: 'planetfall'
+  },
+  {
+    published: true,
+    title: 'Kiwi',
+    description: 'Zodbird is an e2e typed tinybird.co client library for typescript, leveraging zod for type safety and transformations',
+    date: '2023-05-21T00:00:00.000Z',
+    repository: 'chronark/zod-bird',
+    body: "somthing",
+    _id: 'projects/zod-bird.mdx',
+    _raw: {
+      sourceFilePath: 'projects/zod-bird.mdx',
+      sourceFileName: 'zod-bird.mdx',
+      sourceFileDir: 'projects',
+      contentType: 'mdx',
+      flattenedPath: 'projects/zod-bird'
+    },
+    type: 'Project',
+    path: '/projects/zod-bird',
+    slug: 'unkey'
+  }
